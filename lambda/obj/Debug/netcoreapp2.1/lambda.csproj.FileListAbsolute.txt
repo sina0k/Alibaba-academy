@@ -1,0 +1,11 @@
+/home/sina/Desktop/lambda/bin/Debug/netcoreapp2.1/lambda.deps.json
+/home/sina/Desktop/lambda/bin/Debug/netcoreapp2.1/lambda.runtimeconfig.json
+/home/sina/Desktop/lambda/bin/Debug/netcoreapp2.1/lambda.runtimeconfig.dev.json
+/home/sina/Desktop/lambda/bin/Debug/netcoreapp2.1/lambda.dll
+/home/sina/Desktop/lambda/bin/Debug/netcoreapp2.1/lambda.pdb
+/home/sina/Desktop/lambda/obj/Debug/netcoreapp2.1/lambda.csprojAssemblyReference.cache
+/home/sina/Desktop/lambda/obj/Debug/netcoreapp2.1/lambda.csproj.CoreCompileInputs.cache
+/home/sina/Desktop/lambda/obj/Debug/netcoreapp2.1/lambda.AssemblyInfoInputs.cache
+/home/sina/Desktop/lambda/obj/Debug/netcoreapp2.1/lambda.AssemblyInfo.cs
+/home/sina/Desktop/lambda/obj/Debug/netcoreapp2.1/lambda.dll
+/home/sina/Desktop/lambda/obj/Debug/netcoreapp2.1/lambda.pdb
