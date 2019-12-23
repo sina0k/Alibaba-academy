@@ -11800,17 +11800,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sina/Desktop/MVC/MVC.csproj",
+      "projectUniqueName": "/home/sina/Desktop/alibaba/MVC/MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "/home/sina/Desktop/MVC/MVC.csproj",
+      "projectPath": "/home/sina/Desktop/alibaba/MVC/MVC.csproj",
       "packagesPath": "/home/sina/.nuget/packages/",
-      "outputPath": "/home/sina/Desktop/MVC/obj/",
+      "outputPath": "/home/sina/Desktop/alibaba/MVC/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/sina/.nuget/NuGet/NuGet.Config"
+        "/home/sina/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11844,6 +11844,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

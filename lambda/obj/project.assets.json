@@ -694,17 +694,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sina/Desktop/lambda/lambda.csproj",
+      "projectUniqueName": "/home/sina/Desktop/alibaba/lambda/lambda.csproj",
       "projectName": "lambda",
-      "projectPath": "/home/sina/Desktop/lambda/lambda.csproj",
+      "projectPath": "/home/sina/Desktop/alibaba/lambda/lambda.csproj",
       "packagesPath": "/home/sina/.nuget/packages/",
-      "outputPath": "/home/sina/Desktop/lambda/obj/",
+      "outputPath": "/home/sina/Desktop/alibaba/lambda/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/sina/.nuget/NuGet/NuGet.Config"
+        "/home/sina/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -727,6 +727,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
